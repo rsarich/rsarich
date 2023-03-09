@@ -10,9 +10,6 @@ Even though Mathematics wasn't my coup of tea at the beginning of my elementary 
 🏫 Even when I don't program, I still learn. I love to learn languages, such as English and German. I've been learning English
 since I was 6 years old.
 
-✈ I'd love to travel, but unfortunately I've only been to Hungary 🇭🇺 and Montenegro 🇲🇪 | Since it's still Pandemic out in the world, my parents think
-it's better to stay, and possibly explore Serbia 🇷🇸
-
 ## 🛠 Skills
 Programming languages
 
