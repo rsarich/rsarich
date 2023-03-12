@@ -1,7 +1,7 @@
 # Hi there! 🖐
 
 ## 🚀 About me
-🎓 I'm a RaLe, a Montenegrian highschooler from Serbia, who likes to learn something new. Currently I am learning
+🎓 I'm a RaLe, a Montenegrian highschooler, who likes to learn something new. Currently I am learning
 how to use C++
 
 👩‍💻 I know this will sound quite nerdy, but I'm type of person who like to explain in such detail, mostly things I learned. 
